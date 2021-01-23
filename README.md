@@ -23,8 +23,6 @@ Sections 04 and 05
 #### Teaching Assistants:
 
 <details open> <summary>Callie Sardina, Head Teaching Assistant</summary>
-
-
 + **Office Hours**: Thursdays, 9AM - 11AM [Zoom](https://bccte.zoom.us/j/2175950858?pwd=QkpyTkVkR0IremQ5eWFGeStIOHdXUT09).
 
 </details>
@@ -37,7 +35,7 @@ Sections 04 and 05
 
 <details open> <summary>Emma Huang</summary>
 
-+ **Office Hours**: Sundays 10AM - 12PM [Zoom](https://bccte.zoom.us/j/2780123327).
++ **Office Hours**: Sundays 7PM - 9PM [Zoom](https://bccte.zoom.us/j/2780123327).
 
 </details>
 
