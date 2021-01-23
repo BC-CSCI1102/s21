@@ -4,6 +4,7 @@
 
 ---
 
+
 **Meets:** Tuesdays & Thursdays 1PM - 2:15PM and 3PM - 4:15PM, on-line.
 
 **Instructor:** [Robert Muller](http://www.cs.bc.edu/~muller/)
@@ -22,7 +23,45 @@
 [About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1580576/gradebook)  —  [Piazza](https://piazza.com/class/jcdv8smgg9pzi) —  [Java SE8](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/) — [algs4 GitHub](https://github.com/kevin-wayne/algs4)
 
 ---
+<details>
+  <summary>Administration</summary>
 
++ [Meets On Line](https://bccte.zoom.us/j/3306891980): Tuesdays and Thursdays 1:30PM - 2:45PM and again at 3PM - 4:15PM.
+
++ **Instructor:** [Robert Muller](http://www.cs.bc.edu/~muller/)
+
++ [Office Hours](https://bccte.zoom.us/j/3306891980): Wednesdays 2PM - 4:30PM,
++ Thursdays 4:30PM - 6PM.
++
+**Teaching Assistants:**
+
+<details open> <summary>Callie Sardina, Head Teaching Assistant</summary>
+
++ **Office Hours**: Thursdays, 9AM - 11AM, [Zoom](https://bccte.zoom.us/j/2175950858).
+
+</details>
+
+<details open><summary>Kristen Bayreuther</summary>
+
++ **Office Hours**: Wednesdays 4:30PM - 5:30PM, Fridays 3:30PM - 4:30PM [Zoom](https://bccte.zoom.us/j/3535839037).
+
+</details>
+
+<details open> <summary>Emma Huang</summary>
+
++ **Office Hours**: Sundays 10AM - 12PM [Zoom](https://bccte.zoom.us/j/2780123327).
+
+</details>
+
+<details open> <summary>Liam Murphy</summary>
+
++ **Office Hours**: Tuesdays 10:30AM - 11:30AM, Fridays 2PM - 3PM [Zoom](https://bccte.zoom.us/j/???).
+
+</details>
+
+</details>
+
+---
 ## Schedule
 
 |                   Week                    | Mtng |            | Topic                                                        |
