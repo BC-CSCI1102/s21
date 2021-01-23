@@ -14,34 +14,37 @@ Sections 04 and 05
 <details>
   <summary>Administration</summary>
 
-+ [Meets On Line](https://bccte.zoom.us/j/3306891980): Tuesdays and Thursdays 1:30PM - 2:45PM and again at 3PM - 4:15PM.
++ [Meets On Line](https://bccte.zoom.us/j/3306891980): Tuesdays and Thursdays 1:30PM - 2:45PM and again 3PM - 4:15PM.
+
+> Items in `code font` below can be attached to the suffix `@bc.edu` for mail contact.
 
 #### Instructor:
 
- [Robert Muller](http://www.cs.bc.edu/~muller/), **Office Hours**: Wednesdays 2PM - 4:30PM, Thursdays 4:30PM - 6PM [Zoom](https://bccte.zoom.us/j/3306891980).
+ [Robert Muller](http://www.cs.bc.edu/~muller/) **Office Hours**: Wednesdays 2PM - 4:30PM, Thursdays 4:30PM - 6PM [Zoom](https://bccte.zoom.us/j/3306891980), `robert.muller`
 
 #### Teaching Assistants:
 
-<details open> <summary>Callie Sardina, Head Teaching Assistant</summary>
-+ **Office Hours**: Thursdays, 9AM - 11AM [Zoom](https://bccte.zoom.us/j/2175950858?pwd=QkpyTkVkR0IremQ5eWFGeStIOHdXUT09).
+<details open> <summary>Callie Sardina, Head Teaching Assistant</summary> 
+
++ **Office Hours**: Thursdays, 9AM - 11AM [Zoom](https://bccte.zoom.us/j/2175950858?pwd=QkpyTkVkR0IremQ5eWFGeStIOHdXUT09), `sardinac`
 
 </details>
 
 <details open><summary>Kristen Bayreuther</summary>
 
-+ **Office Hours**: Wednesdays 4:30PM - 5:30PM, Fridays 3:30PM - 4:30PM [Zoom](https://bccte.zoom.us/j/3535839037).
++ **Office Hours**: Wednesdays 4:30PM - 5:30PM, Fridays 3:30PM - 4:30PM [Zoom](https://bccte.zoom.us/j/3535839037), `bayreutk`
 
 </details>
 
 <details open> <summary>Emma Huang</summary>
 
-+ **Office Hours**: Sundays 7PM - 9PM [Zoom](https://bccte.zoom.us/j/2780123327).
++ **Office Hours**: Sundays 7PM - 9PM [Zoom](https://bccte.zoom.us/j/2780123327), `huangwr`
 
 </details>
 
 <details open> <summary>Liam Murphy</summary>
 
-+ **Office Hours**: Tuesdays 10:30AM - 11:30AM, Fridays 2PM - 3PM [Zoom](https://bccte.zoom.us/j/3085424208).
++ **Office Hours**: Tuesdays 10:30AM - 11:30AM, Fridays 2PM - 3PM [Zoom](https://bccte.zoom.us/j/3085424208), `murpaue`
 
 </details>
 
