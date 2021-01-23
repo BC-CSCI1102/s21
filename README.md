@@ -8,7 +8,7 @@ Sections 04 and 05
 
 ---
 
-[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1580576/gradebook)  —  [Piazza](https://piazza.com/class/jcdv8smgg9pzi) —  [Java SE8](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/) — [algs4 GitHub](https://github.com/kevin-wayne/algs4)
+[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1619778)  —  [Piazza](https://piazza.com/class/kkaaqjvvwfl2zp) —  [Java SE8](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/) — [algs4 GitHub](https://github.com/kevin-wayne/algs4)
 
 ---
 <details>
