@@ -4,11 +4,9 @@ Sections 04 and 05
 
 ### Spring 2021
 
-# DRAFT 
-
 ---
 
-[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1619778)  —  [Piazza](https://piazza.com/class/kkaaqjvvwfl2zp) —  [Java SE8](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/) — [algs4 GitHub](https://github.com/kevin-wayne/algs4)
+[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1619778)  —  [Piazza](https://piazza.com/class/kkaaqjvvwfl2zp) —  [Java SE8](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/) — [algs4 GitHub](https://github.com/kevin-wayne/algs4) —  [cuvids](https://cuvids.io/app/course/2/)
 
 ---
 <details>
@@ -53,36 +51,57 @@ Sections 04 and 05
 ---
 ## Schedule
 
-|                   Week                    | Mtng |            | Topic                                                        |
-| :---------------------------------------: | :--: | :--------: | :----------------------------------------------------------- |
-| [1](https://github.com/BC-CSCI1102/week1) |  1   | R 01/16/28 | Overview, Administration, Java Setup and Introduction.       |
-| [2](https://github.com/BC-CSCI1102/week2) |  2   | T 02/2/21  | Introduction to Java; libraries, compilation & execution     |
-|                                           |  3   | R 02/4/21  | ADTs — specifications & implementations                      |
-| [3](https://github.com/BC-CSCI1102/week3) |  4   | T 02/9/21  | Understanding `static` and `this` in Java                    |
-|                                           |  5   | R 02/11/21 | The Java class Hierarchy; The StringStack ADT; postfix Expression Evaluation |
-| [4](https://github.com/BC-CSCI1102/week4) |  6   | T 02/16/21 | Parametric Polymorphism/Generics and code Reuse; Sequential VS Linked Representations of the Generic Stack ADT. |
-|                                           |  7   | R 02/18/21 | Linked & Sequential Representations of the Generic Stack ADT |
-| [5](https://github.com/BC-CSCI1102/week5) |  8   | T 02/23/21 | The Queue ADT: A linked implementation                       |
-|                                           |  9   | R 02/25/21 | The Queue ADT: A circular sequential implementation; the Deque ADT |
-| [6](https://github.com/BC-CSCI1102/week6) |  10  | T 03/2/21  | Order-sensitive data structures — the Priority Queue ADT; Binary Heaps. |
-|                                           |  11  | R 03/4/21  | **NO MEETING**                                               |
-|                     7                     |  12  | T 03/9/21  | **First Exam** Binary Heaps; Heapsort                        |
-|                                           |  13  | R 03/11/21 | Orders and Comparability                                     |
-|                     8                     |  14  | T 03/16/21 | Orders, Equality; Maps                                       |
-|                                           |      | R 03/18/21 | **Spring Break**                                             |
-|                     9                     |      | T 03/23/21 | **Spring Break**                                             |
-|                                           |  15  | R 03/25/21 |                                                              |
-|                    10                     |  16  | T 03/30/21 | Huffman Coding                                               |
-|                                           |  17  | R 04/1/21  | Working with Bits                                            |
-|                    11                     |  18  | T 04/6/21  | Binary Search Trees                                          |
-|                                           |  19  | R 04/8/21  | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
-|                    12                     |      | T 04/13/21 | **No Class**                                                 |
-|                                           |  20  | R 04/15/21 | More on Red/Black Trees; Game Trees: Minimaxing              |
-|                    13                     |  21  | T 04/20/21 | Analysis of Work; Big-O notation                             |
-|                                           |  22  | R 04/22/21 | Hashing and Hash Tables                                      |
-|                    14                     |  23  | T 04/27/21 | Hashing; Double Hashing                                      |
-|                                           |  24  | R 04/29/21 | Immutable Data Structures; Immutable Lists                   |
-|                    15                     |  25  | T 05/4/21  | **Second Exam**                                              |
-|                                           |  26  | R 05/6/21  | **Last Meeting** Review and wrap-up                          |
+<details>
+  <summary>At a Glance</summary> 
+   1. Getting Started
+   2. ADTs, Stacks
+   3. Understanding Java
+   4. Generics
+   5. Queues
+   6. Deques
+   7. Priority Queues; Binary Heaps
+   8. Order and Equality
+   9. Sorting
+   10. Huffman Coding
+   11. Maps; Binary Search Trees
+   12. Balanced Binary Search Trees
+   13. Hash Tables
+   14. Graphs; Shortest Paths
+</details>
 
-Mergesort; Graphs    27  T 05/26/21  Deep vs Shallow Copying; Graphs    28  R 05/01/21  Dijkstra's Shortest Path Algorithm
+
+
+|                    Week                    | Mtng |            | Topic                                                        |
+| :----------------------------------------: | :--: | :--------: | :----------------------------------------------------------- |
+| [1](https://github.com/BC-CSCI1102/Week01) |  1   | R 01/16/28 | Overview, Administration, Java Setup and Introduction.       |
+|                     2                      |  2   | T 02/2/21  | Introduction to Java; libraries, compilation & execution     |
+|                                            |  3   | R 02/4/21  | ADTs — specifications & implementations                      |
+|                     3                      |  4   | T 02/9/21  | The StringStack ADT; Postfix Expression Evaluation           |
+|                                            |  5   | R 02/11/21 | Understanding Java: `static` versus dynamic functions; `this` |
+|                     4                      |  6   | T 02/16/21 | Understanding Java: The Class Hierarchy, Inheritance; Override & Dispatch |
+|                                            |  7   | R 02/18/21 | Understanding Java: Parametric Polymorphism/Generics         |
+|                     5                      |  8   | T 02/23/21 | Linked & Sequential Representations of the Generic Stack ADT |
+|                                            |  9   | R 02/25/21 | The Queue ADT: A linked implementation; **First Quiz**       |
+|                     6                      |  10  | T 03/2/21  | The Queue ADT: A circular sequential implementation; The Deque ADT |
+|                                            |  11  | R 03/4/21  | **No Meeting**                                               |
+|                     7                      |  12  | T 03/9/21  | Order-sensitive data structures — the Priority Queue ADT; Binary Heaps. |
+|                                            |  13  | R 03/11/21 | Binary Heaps; Heapsort                                       |
+|                     8                      |  14  | T 03/16/21 | Orders and Comparability                                     |
+|                                            |      | R 03/18/21 | Orders, Equality; Maps                                       |
+|                     9                      |      | T 03/23/21 | Mergesort                                                    |
+|                                            |  15  | R 03/25/21 | Quicksort                                                    |
+|                     10                     |  16  | T 03/30/21 | Huffman Coding; **Second Quiz**                              |
+|                                            |  17  | R 04/1/21  | Working with Bits                                            |
+|                     11                     |  18  | T 04/6/21  | The Map ADT: Binary Search Trees                             |
+|                                            |  19  | R 04/8/21  | Analysis of Work; Big-O notation                             |
+|                     12                     |      | T 04/13/21 | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
+|                                            |  20  | R 04/15/21 | More on Red/Black Trees                                      |
+|                     13                     |  21  | T 04/20/21 | Skip Lists                                                   |
+|                                            |  22  | R 04/22/21 | Hashing and Hash Tables                                      |
+|                     14                     |  23  | T 04/27/21 | Hashing; Double Hashing                                      |
+|                                            |  24  | R 04/29/21 | Immutable Data Structures; Immutable Lists                   |
+|                     15                     |  25  | T 05/4/21  | Graphs; Dijkstra's Shortest Path Algorithm                   |
+|                                            |  26  | R 05/6/21  | **Last Meeting** Review and wrap-up **Third Quiz**           |
+
+
+
