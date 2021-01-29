@@ -8,11 +8,11 @@
 
 Like most CS courses, CSCI 1102 is very much a "learn by doing" course. Reflecting this, grades will emphasize the problem sets. Grades will be computed on a 200 point scale. The points are distributed as follows:
 
-+ 100 points over 10 problem sets; your lowest non-zero problem set score will be discarded and replaced by your average score for the other 9 problem sets;
++ 140 points over 10 problem sets;
 
-+ 80 points over 3 exams --- 20 points for each of two midterms and 40 points for the final exam;
++ 30 points over 3 quizzes;
 
-+ 20 points for class and piazza participation;
++ 30 points for class and piazza participation;
 
 Grades will be recorded on the Canvas website.
 
