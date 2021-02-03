@@ -74,7 +74,7 @@ Sections 04 and 05
 |                    Week                    | Mtng |            | Topic                                                        |
 | :----------------------------------------: | :--: | :--------: | :----------------------------------------------------------- |
 | [1](https://github.com/BC-CSCI1102/Week01) |  1   | R 01/16/28 | Overview, Administration, Java Setup and Introduction.       |
-|                     2                      |  2   | T 02/2/21  | Introduction to Java; libraries, compilation & execution     |
+| [2](https://github.com/BC-CSCI1102/Week02) |  2   | T 02/2/21  | Introduction to Java; libraries, compilation & execution     |
 |                                            |  3   | R 02/4/21  | ADTs — specifications & implementations                      |
 |                     3                      |  4   | T 02/9/21  | The StringStack ADT; Postfix Expression Evaluation           |
 |                                            |  5   | R 02/11/21 | Understanding Java: `static` versus dynamic functions; `this` |
