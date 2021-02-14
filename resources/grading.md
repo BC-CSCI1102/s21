@@ -24,3 +24,37 @@ Grades will be recorded on the Canvas website.
 + Late problem sets will be penalized 20% each day.
 + Students missing an exam without prior permission of the instructor will receive a zero for that exam unless they provide a note from their doctor.
 + Any violation of the [university's policy on academic integrity](http://www.bc.edu/offices/stserv/academic/integrity.html) will result in a failing grade for the course.
+
+##### Notes for problem set grading
+
+Some general criteria for grading of problem sets in CSCI 1102:
+
+1. Does the program compile? If not, is it a syntax error? A type error? An undefined symbol? Would a small change make it compile?
+
+2. Does the program run correctly?
+
+3. Is the program well written?
+
+   1. Is the code reasonably efficient? Time? Space?
+
+   2. Are subtasks appropriately delegated to helper functions?
+
+   3. Are the identifier names well chosen? They should be informative but not too long.
+
+   4. Are reasonable symbolic names introduced for constants appearing in the program? Literals 0, 1, 0.0 and 1.1 are OK but otherwise symbols should be used. E.g., 
+
+      ```java
+      static final int MAXHEIGHT = 100;
+      ```
+
+   5. Are literals occuring in the program of the correct types for the operations applied to them? (Want to avoid depending on implicit compiler type conversions.) E.g., `double x = 2;` should be written as `double x = 2.0;`
+
+   6. Is there a brief but informative header comment for the file?
+
+   7. Are the appropriate declarations private and public?
+
+   8. If files were opened, were they closed appropriately?
+
+   9. If exceptions are raised, are they caught?
+
+   10. If input is solicited from the user, is the user told what to provide?
