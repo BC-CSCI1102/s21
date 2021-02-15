@@ -25,15 +25,17 @@ Grades will be recorded on the Canvas website.
 + Students missing an exam without prior permission of the instructor will receive a zero for that exam unless they provide a note from their doctor.
 + Any violation of the [university's policy on academic integrity](http://www.bc.edu/offices/stserv/academic/integrity.html) will result in a failing grade for the course.
 
-##### Notes for problem set grading
+#### Notes for problem set grading
 
-Some general criteria for grading of problem sets in CSCI 1102:
+Some general criteria for grading of problem sets in CSCI 1102. The percentages are rough guidelines for the TA staff. A percentage should be interpreted as being *additive*. For example, the score for a program that compiles correctly will receive between 40% and 50% credit for that. If it furthermore runs correctly, producing the correct output, it will receive an additional amount between 20% and 30% more credit. If it is also written well, it will receive another 20% to 30% credit.  A program that doesn't compile will perhaps receive 30% to 40% plus whatever might be gained in the "written well" category, it would receive no credit for running correctly.
 
-1. Does the program compile? If not, is it a syntax error? A type error? An undefined symbol? Would a small change make it compile?
+The total score will be the sum of these 3 properties.
 
-2. Does the program run correctly?
+1. Does the program compile? If not, is it a syntax error? A type error? An undefined symbol? Would a small change make it compile? (40 - 50%)
 
-3. Is the program well written?
+2. Does the program run correctly? (20% - 30%)
+
+3. Is the program well written? (20 - 30%)
 
    1. Is the code reasonably efficient? Time? Space?
 
