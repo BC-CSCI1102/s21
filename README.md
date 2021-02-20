@@ -75,14 +75,14 @@ Sections 04 and 05
 | :----------------------------------------: | :--: | :--------: | :----------------------------------------------------------- |
 | [1](https://github.com/BC-CSCI1102/Week01) |  1   | R 01/16/28 | Overview, Administration, Java Setup and Introduction.       |
 | [2](https://github.com/BC-CSCI1102/Week02) |  2   | T 02/2/21  | Introduction to Java; libraries, compilation & execution     |
-|                                            |  3   | R 02/4/21  | ADTs — specifications & implementations                      |
-| [3](https://github.com/BC-CSCI1102/Week03) |  4   | T 02/9/21  | The StringStack ADT; Postfix Expression Evaluation           |
-|                                            |  5   | R 02/11/21 | Understanding Java: `static` versus dynamic functions; `this` |
-|                     4                      |  6   | T 02/16/21 | Understanding Java: The Class Hierarchy, Inheritance; Override & Dispatch |
-|                                            |  7   | R 02/18/21 | Understanding Java: Parametric Polymorphism/Generics         |
-|                     5                      |  8   | T 02/23/21 | Linked & Sequential Representations of the Generic Stack ADT |
-|                                            |  9   | R 02/25/21 | The Queue ADT: A linked implementation; **First Quiz**       |
-|                     6                      |  10  | T 03/2/21  | The Queue ADT: A circular sequential implementation; The Deque ADT |
+|                                            |  3   | R 02/4/21  | Introduction to Java                                         |
+| [3](https://github.com/BC-CSCI1102/Week03) |  4   | T 02/9/21  | ADTs — specifications & implementations                      |
+|                                            |  5   | R 02/11/21 | The StringStack ADT; Postfix Expression Evaluation           |
+| [4](https://github.com/BC-CSCI1102/Week04) |  6   | T 02/16/21 | A Sequential Representation of the Stack ADT with Resizing; Understanding Java: The Class Hierarchy & Inheritance; Pros and Cons of using the `Object` class to introduce polymorphism |
+|                                            |  7   | R 02/18/21 | A Linked Representation of the Generic Stack ADT; Memory     |
+|                     5                      |  8   | T 02/23/21 | The Queue and Deque ADTs: Singly & Doubly Linked Lists       |
+|                                            |  9   | R 02/25/21 | A Sequential Implementation of Queues using Circular Arrays  |
+|                     6                      |  10  | T 03/2/21  | Locality in Sequential & Linked Representations; **First Quiz** |
 |                                            |  11  | R 03/4/21  | **No Meeting**                                               |
 |                     7                      |  12  | T 03/9/21  | Order-sensitive data structures — the Priority Queue ADT; Binary Heaps. |
 |                                            |  13  | R 03/11/21 | Binary Heaps; Heapsort                                       |
