@@ -80,7 +80,7 @@ Sections 04 and 05
 |                                            |  5   | R 02/11/21 | The StringStack ADT; Postfix Expression Evaluation           |
 | [4](https://github.com/BC-CSCI1102/Week04) |  6   | T 02/16/21 | A Sequential Representation of the Stack ADT with Resizing; Understanding Java: The Class Hierarchy & Inheritance; Pros and Cons of using the `Object` class to introduce polymorphism |
 |                                            |  7   | R 02/18/21 | A Linked Representation of the Generic Stack ADT; Memory     |
-|                     5                      |  8   | T 02/23/21 | The Queue and Deque ADTs: Singly & Doubly Linked Lists       |
+| [5](https://github.com/BC-CSCI1102/Week05) |  8   | T 02/23/21 | The Queue and Deque ADTs: Singly & Doubly Linked Lists       |
 |                                            |  9   | R 02/25/21 | A Sequential Implementation of Queues using Circular Arrays  |
 |                     6                      |  10  | T 03/2/21  | Locality in Sequential & Linked Representations; **First Quiz** |
 |                                            |  11  | R 03/4/21  | **No Meeting**                                               |
