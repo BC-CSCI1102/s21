@@ -30,7 +30,7 @@ Sections 04 and 05
 
 <details open><summary>Kristen Bayreuther</summary>
 
-+ **Office Hours**: Wednesdays 4:30PM - 5:30PM, Fridays 3:30PM - 4:30PM [Zoom](https://bccte.zoom.us/j/3535839037), `bayreutk`
++ **Office Hours**: Mondays 5PM - 6PM, Wednesdays 4:30PM - 5:30PM, Fridays 3:30PM - 4:30PM [Zoom](https://bccte.zoom.us/j/3535839037), `bayreutk`
 
 </details>
 
@@ -82,7 +82,7 @@ Sections 04 and 05
 |                                            |  7   | R 02/18/21 | A Linked Representation of the Generic Stack ADT; Memory     |
 | [5](https://github.com/BC-CSCI1102/Week05) |  8   | T 02/23/21 | The Queue and Deque ADTs: Singly & Doubly Linked Lists       |
 |                                            |  9   | R 02/25/21 | A Sequential Implementation of Queues using Circular Arrays  |
-|                     6                      |  10  | T 03/2/21  | Locality in Sequential & Linked Representations; **First Quiz** |
+|                     6                      |  10  | T 03/2/21  | **First Quiz**                                               |
 |                                            |  11  | R 03/4/21  | **No Meeting**                                               |
 |                     7                      |  12  | T 03/9/21  | Order-sensitive data structures — the Priority Queue ADT; Binary Heaps. |
 |                                            |  13  | R 03/11/21 | Binary Heaps; Heapsort                                       |
