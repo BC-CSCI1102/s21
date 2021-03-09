@@ -84,7 +84,7 @@ Sections 04 and 05
 |                                            |  9   | R 02/25/21 | A Sequential Implementation of Queues using Circular Arrays  |
 |                     6                      |  10  | T 03/2/21  | **First Quiz**                                               |
 |                                            |  11  | R 03/4/21  | **No Meeting**                                               |
-|                     7                      |  12  | T 03/9/21  | Order-sensitive data structures — the Priority Queue ADT; Binary Heaps. |
+| [7](https://github.com/BC-CSCI1102/Week07) |  12  | T 03/9/21  | Order-sensitive data structures — the Priority Queue ADT; Binary Heaps. |
 |                                            |  13  | R 03/11/21 | Binary Heaps; Heapsort                                       |
 |                     8                      |  14  | T 03/16/21 | Orders and Comparability                                     |
 |                                            |      | R 03/18/21 | Orders, Equality; Maps                                       |
