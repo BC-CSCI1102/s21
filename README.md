@@ -18,7 +18,7 @@ Sections 04 and 05
 
 #### Instructor:
 
- [Robert Muller](http://www.cs.bc.edu/~muller/) **Office Hours**: Wednesdays 2PM - 4:30PM, Thursdays 4:30PM - 6PM [Zoom](https://bccte.zoom.us/j/3306891980), `robert.muller`
+ [Robert Muller](http://www.cs.bc.edu/~muller/) **Office Hours**: Wednesdays **9AM - 11AM**, Thursdays **8:00PM - 9:30PM** [Zoom](https://bccte.zoom.us/j/3306891980), `robert.muller`
 
 #### Teaching Assistants:
 
