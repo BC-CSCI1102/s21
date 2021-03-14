@@ -34,9 +34,10 @@ Sections 04 and 05
 
 </details>
 
-<details open> <summary>Emma Huang</summary>
+<details open> <summary>Weber Meng</summary>
 
-+ **Office Hours**: Sundays 7PM - 9PM [Zoom](https://bccte.zoom.us/j/2780123327), `huangwr`
+
++ **Office Hours**: Sundays 2PM - 4PM [Zoom](https://bccte.zoom.us/j/4058045025), `mengqf`
 
 </details>
 
