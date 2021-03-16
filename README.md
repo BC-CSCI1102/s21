@@ -6,7 +6,7 @@ Sections 04 and 05
 
 ---
 
-[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1619778)  —  [Piazza](https://piazza.com/class/kkaaqjvvwfl2zp)  —  [Java](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/)  — [algs4 GitHub](https://github.com/kevin-wayne/algs4)  —  [cuvids](https://cuvids.io/app/course/2/)  —  [Meeting](https://bccte.zoom.us/j/3306891980)  —  [Sorting](https://www.toptal.com/developers/sorting-algorithms)
+[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1619778)  —  [Piazza](https://piazza.com/class/kkaaqjvvwfl2zp)  —  [Java](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/)  — [algs4 GH](https://github.com/kevin-wayne/algs4)  —  [cuvids](https://cuvids.io/app/course/2/)  —  [Meeting](https://bccte.zoom.us/j/3306891980)  —  [Sorting](https://www.toptal.com/developers/sorting-algorithms)
 
 ---
 <details>
