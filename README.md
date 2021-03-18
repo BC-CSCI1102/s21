@@ -30,7 +30,7 @@ Sections 04 and 05
 
 <details open><summary>Kristen Bayreuther</summary>
 
-+ **Office Hours**: Mondays 5PM - 6PM, Wednesdays 4:30PM - 5:30PM, Fridays 3:30PM - 4:30PM [Zoom](https://bccte.zoom.us/j/3535839037), `bayreutk`
++ **Office Hours**: Mondays 5PM - 6PM, Fridays 3:30PM - 4:30PM [Zoom](https://bccte.zoom.us/j/3535839037), `bayreutk`
 
 </details>
 
