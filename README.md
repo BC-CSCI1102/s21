@@ -89,9 +89,9 @@ Sections 04 and 05
 |                                            |  13  | R 03/11/21 | Iteration & Recursion; Mutability                            |
 | [8](https://github.com/BC-CSCI1102/Week08) |  14  | T 03/16/21 | Heapsort & Mergesort                                         |
 |                                            |      | R 03/18/21 | Quicksort & Insertion Sort                                   |
-|                     9                      |      | T 03/23/21 | Orders, Equality; Maps                                       |
-|                                            |  15  | R 03/25/21 | Huffman Coding                                               |
-|                     10                     |  16  | T 03/30/21 | **Second Quiz**                                              |
+| [9](https://github.com/BC-CSCI1102/Week09) |      | T 03/23/21 | Orders, Equality; Maps                                       |
+|                                            |  15  | R 03/25/21 | Working with Equality and Order in Java                      |
+|                     10                     |  16  | T 03/30/21 | Huffman Coding; **Second Quiz**                              |
 |                                            |  17  | R 04/1/21  | Working with Bits                                            |
 |                     11                     |  18  | T 04/6/21  | The Map ADT: Binary Search Trees                             |
 |                                            |  19  | R 04/8/21  | Analysis of Work; Big-O notation                             |
