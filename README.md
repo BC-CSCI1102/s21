@@ -36,7 +36,6 @@ Sections 04 and 05
 
 <details open> <summary>Weber Meng</summary>
 
-
 + **Office Hours**: Sundays 2PM - 4PM [Zoom](https://bccte.zoom.us/j/4058045025), `mengqf`
 
 </details>
@@ -91,17 +90,17 @@ Sections 04 and 05
 |                                            |      | R 03/18/21 | Quicksort & Insertion Sort                                   |
 | [9](https://github.com/BC-CSCI1102/Week09) |      | T 03/23/21 | Orders, Equality; Maps                                       |
 |                                            |  15  | R 03/25/21 | Working with Equality and Order in Java                      |
-|                     10                     |  16  | T 03/30/21 | Huffman Coding; **Second Quiz**                              |
-|                                            |  17  | R 04/1/21  | Working with Bits                                            |
+|                     10                     |  16  | T 03/30/21 | Huffman Coding; Working with Binary Trees                    |
+|                                            |  17  | R 04/1/21  | **Second Quiz**; Working with Bits                           |
 |                     11                     |  18  | T 04/6/21  | The Map ADT: Binary Search Trees                             |
-|                                            |  19  | R 04/8/21  | Analysis of Work; Big-O notation                             |
+|                                            |  19  | R 04/8/21  | Binary Search Trees; Immutable BSTs                          |
 |                     12                     |      | T 04/13/21 | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
 |                                            |  20  | R 04/15/21 | More on Red/Black Trees                                      |
 |                     13                     |  21  | T 04/20/21 | Skip Lists                                                   |
 |                                            |  22  | R 04/22/21 | Hashing and Hash Tables                                      |
 |                     14                     |  23  | T 04/27/21 | Hashing; Double Hashing                                      |
-|                                            |  24  | R 04/29/21 | Immutable Data Structures; Immutable Lists                   |
-|                     15                     |  25  | T 05/4/21  | Graphs; Dijkstra's Shortest Path Algorithm                   |
+|                                            |  24  | R 04/29/21 | Working with Graphs                                          |
+|                     15                     |  25  | T 05/4/21  | Dijkstra's Shortest Path Algorithm                           |
 |                                            |  26  | R 05/6/21  | **Last Meeting** Review and wrap-up **Third Quiz**           |
 
 
