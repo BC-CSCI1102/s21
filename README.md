@@ -83,25 +83,25 @@ Sections 04 and 05
 | [5](https://github.com/BC-CSCI1102/Week05) |  8   | T 02/23/21 | The Queue and Deque ADTs: Singly & Doubly Linked Lists       |
 |                                            |  9   | R 02/25/21 | A Sequential Implementation of Queues using Circular Arrays  |
 |                     6                      |  10  | T 03/2/21  | **First Quiz**                                               |
-|                                            |  11  | R 03/4/21  | **No Meeting**                                               |
-| [7](https://github.com/BC-CSCI1102/Week07) |  12  | T 03/9/21  | Order-sensitive data structures — the Priority Queue ADT; Binary Heaps. |
-|                                            |  13  | R 03/11/21 | Iteration & Recursion; Mutability                            |
-| [8](https://github.com/BC-CSCI1102/Week08) |  14  | T 03/16/21 | Heapsort & Mergesort                                         |
-|                                            |      | R 03/18/21 | Quicksort & Insertion Sort                                   |
-| [9](https://github.com/BC-CSCI1102/Week09) |      | T 03/23/21 | Orders, Equality; Maps                                       |
-|                                            |  15  | R 03/25/21 | Working with Equality and Order in Java                      |
-|                     10                     |  16  | T 03/30/21 | Huffman Coding; Working with Binary Trees                    |
-|                                            |  17  | R 04/1/21  | **Second Quiz**; Working with Bits                           |
-|                     11                     |  18  | T 04/6/21  | The Map ADT: Binary Search Trees                             |
-|                                            |  19  | R 04/8/21  | Binary Search Trees; Immutable BSTs                          |
-|                     12                     |      | T 04/13/21 | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
-|                                            |  20  | R 04/15/21 | More on Red/Black Trees                                      |
-|                     13                     |  21  | T 04/20/21 | Skip Lists                                                   |
-|                                            |  22  | R 04/22/21 | Hashing and Hash Tables                                      |
-|                     14                     |  23  | T 04/27/21 | Hashing; Double Hashing                                      |
-|                                            |  24  | R 04/29/21 | Working with Graphs                                          |
-|                     15                     |  25  | T 05/4/21  | Dijkstra's Shortest Path Algorithm                           |
-|                                            |  26  | R 05/6/21  | **Last Meeting** Review and wrap-up **Third Quiz**           |
+|                                            |      | R 03/4/21  | **No Meeting**                                               |
+| [7](https://github.com/BC-CSCI1102/Week07) |  11  | T 03/9/21  | Order-sensitive data structures — the Priority Queue ADT; Binary Heaps. |
+|                                            |  12  | R 03/11/21 | Quiz Review; Iteration & Recursion; Mutability               |
+| [8](https://github.com/BC-CSCI1102/Week08) |  13  | T 03/16/21 | Heapsort & Mergesort                                         |
+|                                            |  14  | R 03/18/21 | Quicksort & Insertion Sort                                   |
+| [9](https://github.com/BC-CSCI1102/Week09) |  15  | T 03/23/21 | Orders & Equality; Maps                                      |
+|                                            |  16  | R 03/25/21 | Working with Equality and Order in Java                      |
+|                     10                     |  17  | T 03/30/21 | Huffman Coding; Working with Binary Trees                    |
+|                                            |  18  | R 04/1/21  | **Second Quiz**; Working with Bits                           |
+|                     11                     |  19  | T 04/6/21  | The Map ADT: Binary Search Trees                             |
+|                                            |  20  | R 04/8/21  | Binary Search Trees; Immutable BSTs                          |
+|                     12                     |  21  | T 04/13/21 | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
+|                                            |  22  | R 04/15/21 | More on Red/Black Trees                                      |
+|                     13                     |  23  | T 04/20/21 | Skip Lists                                                   |
+|                                            |  24  | R 04/22/21 | Hashing and Hash Tables                                      |
+|                     14                     |  25  | T 04/27/21 | Hashing; Double Hashing                                      |
+|                                            |  26  | R 04/29/21 | Working with Graphs                                          |
+|                     15                     |  27  | T 05/4/21  | Dijkstra's Shortest Path Algorithm                           |
+|                                            |  28  | R 05/6/21  | **Last Meeting** Review and wrap-up **Third Quiz**           |
 
 
 
