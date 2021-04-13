@@ -92,7 +92,7 @@ Sections 04 and 05
 |                                             |  16  | R 03/25/21 | Working with Equality and Order in Java                      |
 | [10](https://github.com/BC-CSCI1102/Week10) |  17  | T 03/30/21 | Huffman Coding                                               |
 |                                             |  18  | R 04/1/21  | **Second Quiz**                                              |
-|                     11                      |  19  | T 04/6/21  | The Map ADT: Binary Search Trees                             |
+| [11](https://github.com/BC-CSCI1102/Week11) |  19  | T 04/6/21  | The Map ADT: Binary Search Trees                             |
 |                                             |  20  | R 04/8/21  | Binary Search Trees                                          |
 |                     12                      |  21  | T 04/13/21 | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
 |                                             |  22  | R 04/15/21 | More on Red/Black Trees                                      |
