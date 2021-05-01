@@ -98,7 +98,7 @@ Sections 04 and 05
 |                                             |  22  | R 04/15/21 | More on Red/Black Trees                                      |
 |                     13                      |  23  | T 04/20/21 | Hashing & Hash Tables                                        |
 |                                             |  24  | R 04/22/21 | More on Hashing                                              |
-|                     14                      |  25  | T 04/27/21 | Skip Lists                                                   |
+| [14](https://github.com/BC-CSCI1102/Week14) |  25  | T 04/27/21 | Skip Lists                                                   |
 |                                             |  26  | R 04/29/21 | Working with Graphs                                          |
 |                     15                      |  27  | T 05/4/21  | Dijkstra's Shortest Path Algorithm                           |
 |                                             |  28  | R 05/6/21  | **Last Meeting** Review and wrap-up                          |
