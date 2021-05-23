@@ -94,13 +94,13 @@ Sections 04 and 05
 |                                             |  18  | R 04/1/21  | **Second Quiz**                                              |
 | [11](https://github.com/BC-CSCI1102/Week11) |  19  | T 04/6/21  | The Map ADT: Binary Search Trees                             |
 |                                             |  20  | R 04/8/21  | Binary Search Trees                                          |
-|                     12                      |  21  | T 04/13/21 | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
+| [12](https://github.com/BC-CSCI1102/Week12) |  21  | T 04/13/21 | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
 |                                             |  22  | R 04/15/21 | More on Red/Black Trees                                      |
-|                     13                      |  23  | T 04/20/21 | Hashing & Hash Tables                                        |
+| [13](https://github.com/BC-CSCI1102/Week13) |  23  | T 04/20/21 | Hashing & Hash Tables                                        |
 |                                             |  24  | R 04/22/21 | More on Hashing                                              |
 | [14](https://github.com/BC-CSCI1102/Week14) |  25  | T 04/27/21 | No Meeting                                                   |
 |                                             |  26  | R 04/29/21 | Working with Graphs                                          |
-|                     15                      |  27  | T 05/4/21  | Dijkstra's Shortest Path Algorithm                           |
+| [15](https://github.com/BC-CSCI1102/Week15) |  27  | T 05/4/21  | Dijkstra's Shortest Path Algorithm                           |
 |                                             |  28  | R 05/6/21  | **Last Meeting** Review and wrap-up                          |
 
 
